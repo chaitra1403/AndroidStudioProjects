@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="button">Button</string>
+    <string name="messaging_app">Messaging APP</string>
+</resources>
